@@ -2,7 +2,9 @@
 
 ### Hi, I'm Maxim.
 
-Mediocre developer? ![](https://img.shields.io/badge/mediocrity-accepted-blue) 
+Mediocre developer?
+
+![](https://img.shields.io/badge/mediocrity-accepted-blue) 
 
 🛠️Inspired by:
 | Who | Why they haunt me |
